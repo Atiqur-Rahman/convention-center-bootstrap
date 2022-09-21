@@ -1,0 +1,60 @@
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+.roboto {
+    font-family: "Roboto", sans-serif;
+}
+.inter {
+    font-family: "Inter", sans-serif;
+}
+.carousel-h3 {
+    font-size: 3rem;
+}
+.button-h3 .question-h2 {
+    font-size: 38px;
+}
+.package-price {
+    font-size: 36px;
+}
+.package-header {
+    font-size: 28px;
+}
+.package-info {
+    font-size: 15px;
+}
+.package-ul {
+    list-style: none;
+    padding: 0;
+}
+.package-ul > li::before {
+    content: url(icons8-ok-18.png);
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 10px;
+    padding-top: 3px;
+}
+.package-third {
+    margin: 0;
+    padding: 0 0 30px 0;
+    background-color: darkblue;
+    background-image: url(watermark.svg);
+}
+/* .accordion {
+    margin: 6pxpx;
+    padding: 10px;
+    border-radius: 6px;
+} */
+/* .accordion-header {
+    border: 0.1px solid gray;
+    border-radius: 6px;
+} */
+.bg-footer {
+    background-color: black;
+}
+.manrope {
+    font-family: "Manrope", sans-serif;
+}
+.footer-fs {
+    font-size: 10px;
+    font-weight: bold;
+}
